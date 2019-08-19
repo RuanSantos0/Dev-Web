@@ -4,7 +4,13 @@
 - NodeJS
 - Postman
 
-# REQUISIÇOES 
+# PROCEDIMENTOS DE INICIALIZAÇÃO DO PROJETO
+
+- git clone https://github.com/RuanSantos0/Dev-Web.git
+- npm install
+- npm start
+
+# REQUISIÇõES 
 
  - GET = http://localhost:3000/logins
  - POST = http://localhost:3000/logins
@@ -18,10 +24,3 @@
 	    "senha": "exemplo-alteração"
           }
 - DELETE = http://localhost:3000/logins/id
-)
-
-# PROCEDIMENTOS DE INICIALIZAÇÃO DO PROJETO
-
-- git clone https://github.com/RuanSantos0/Dev-Web.git
-- npm install
-- npm start
