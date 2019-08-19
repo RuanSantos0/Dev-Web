@@ -18,11 +18,12 @@
 	    "usuario": "gleibia",
 	    "senha": "ruanito123"
           }
-- PUT = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
+- PUT = http://localhost:3000/logins/id, id = (5d51fe37af34d20fe04065ab)
+- Exemplo = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
     obj = {
 	    "usuario": "exemplo-alteração",
 	    "senha": "exemplo-alteração"
           }
-- DELETE = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
+- DELETE = http://localhost:3000/logins/id
+- Exemplo = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
 
-- id = 5d51fe37af34d20fe04065ab
