@@ -2,7 +2,9 @@
 # TECNOLOGIAS
 
 - NodeJS
-- Postman ( REALIZAR REQUISIÇOES 
+- Postman
+
+# REQUISIÇOES 
 
  - GET = http://localhost:3000/logins
  - POST = http://localhost:3000/logins
