@@ -20,18 +20,25 @@
 
 # REQUISIÇõES 
 
- - GET = http://localhost:3000/ENTIDADES
- - POST = http://localhost:3000/ENTIDADES
+- GET = http://localhost:3000/ENTIDADE
+- POST = http://localhost:3000/ENTIDADE
+- PUT = http://localhost:3000/ENTIDADE/id, id = (5d51fe37af34d20fe04065ab)
+- DELETE = http://localhost:3000/ENTIDADE/id
+
+
+# EXEMPLO 
+
+ - GET = http://localhost:3000/logins
+ - POST = http://localhost:3000/logins
     obj = {
 	    "usuario": "gleibia",
 	    "senha": "ruanito123"
           }
-- PUT = http://localhost:3000/ENTIDADES/id, id = (5d51fe37af34d20fe04065ab)
-- Exemplo = http://localhost:3000/ENTIDADES/5d51fe37af34d20fe04065ab
+- PUT = http://localhost:3000/logins/id, id = (5d51fe37af34d20fe04065ab)
+- Exemplo = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
     obj = {
 	    "usuario": "exemplo-alteração",
 	    "senha": "exemplo-alteração"
           }
-- DELETE = http://localhost:3000/ENTIDADES/id
-- Exemplo = http://localhost:3000/ENTIDADES/5d51fe37af34d20fe04065ab
-
+- DELETE = http://localhost:3000/logins/id
+- Exemplo = http://localhost:3000/logins/5d51fe37af34d20fe04065ab
