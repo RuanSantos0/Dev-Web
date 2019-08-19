@@ -10,6 +10,12 @@
 	    "usuario": "gleibia",
 	    "senha": "ruanito123"
           }
+- PUT = http://localhost:3000/logins/id
+    obj = {
+	    "usuario": "exemplo-alteração",
+	    "senha": "exemplo-alteração"
+          }
+- DELETE = http://localhost:3000/logins/id
 )
 
 # PROCEDIMENTOS DE INICIALIZAÇÃO DO PROJETO
