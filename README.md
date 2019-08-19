@@ -1,11 +1,11 @@
 # Dev-Web
-#TECNOLOGIAS
+# TECNOLOGIAS
 
 -NodeJS
 -Postman ( REALIZAR REQUISIÇOES )
 
-#PROCEDIMENTOS DE INICIALIZAÇÃO DO PROJETO
+# PROCEDIMENTOS DE INICIALIZAÇÃO DO PROJETO
 
-- git clone link
+- git clone https://github.com/RuanSantos0/Dev-Web.git
 - npm i
 - npm start
